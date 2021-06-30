@@ -1,0 +1,29 @@
+   body {
+       background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHCg0NBw0NDQ0NDQ0PDQ0NDQ8NDQ0NFRUWFhURFRUYHCggGBolGxMVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NFQ0PGisZExkrLSsrKysrKysrKysrLSsrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAKgBLAMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAACAwEABQf/xAAWEAEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYAQEBAQEBAAAAAAAAAAAAAAABAAIEA//EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwD7PQp0K9XiFT0pU9NQBRpUaQnQp0KQFCnQrQChToUgNBT0FaCdCnQpA1OqVOtQBWxlbCiKCUCKFBhRIiglEihQYUCKHAhxIo2MjYEcKDCiRFBKJFCgwoE9KhToVzOgKnpSp6agCjSo0hOhToUgKFOhWgFCnQpAaCnoK0E6FOhSBqdUqdagCtjK2FEUEoEUKDCiRFBKJFCgwoEUOBDiRRsZGwI4UGFEiKCUSKFBhQJ6VCnQrmdAVPSlT01AFGlRpCdCnQpAUKdCtAKFOhSA0FPQVoJ0KdCkDU6pU61AFbGVsKIoJQIoUGFEiKCUSKFBhQIocCHEijYyNgRwoMKJEUEokUKDCgT0qFOhXM6AqelKnpqAKNKjSE6FOhSAoU6FaAUKdCkBoKegrQToU6FIGp1Sp1qAK2MrYURQSgRQoMKJEUEokUKDCgRQ4EOJFGxkbAjhQYUSIoJRIoUGFAnpUKdCuZ0BU9KVPTUAUaVGkJ0KdCkBQp0K0AoU6FIDQU9BWgnQp0KQNTqlTrUAVsZWwoiglAihQYUSIoJRIoUGFAihwIcSKNjI2BHCgwokRQSiRQoMKBPSoU6FczoCp6UqemoAo0qNIToU6FIChToVoBQp0KQGgp6CtBOhToUganVKnWoArYythRFBKBFCgwokRQSiRQoMKBFDgQ4kUbGRsCOFBhRIiglEihQYUCelQp0K5nQFT0pU9NQBRpUaQnQp0KQFCnQrQChToUgNBT0FaCdCnQpA1OqVOtQBWxlbCiKCUCKFBhRIiglEihQYUCKHAhxIo2MjYEcKDCiRFBKJFCgwoE9KhToVzOgKnpSp6agCjSo0hOhToUgKFOhWgFCnQpAaCnoK0E6FOhSBqdUqdagCtjK2FEUEoEUKDCiRFBKJFCgwoEUOBDiRRsZGwI4UGFEiKCUSKFBhQJ6VCnQrmdAVPSlT01AFGlRpCdCnQpAUKdCtAKFOhSA0FPQVoJ0KdCkDU6pU61AFbGVsKIoJQIoUGFEiKCUSKFBhQIocCHEijYyNgRwoMKJEUEokUKDCgT0qFOhXM6AqelKnpqAKNKjSE6FOhSAoU6FaAUKdCkBoKegrQToU6FIGp1Sp1qAK2MrYURQSgRQoMKJEUEokUKDCgRQ4EOJFGxkbAjhQYUSIoJRIoUGFAnpUK5zmdAVPTnNQBRrnEJ0K5xAUK5zQChWOIHQVjmgFCucQNTrXNQJ1sc4oijnBFCjnJEUc5IoUc4IocY5I42OcEcKOckRRzkihRzgn/9k=");
+       height: 100%;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       -webkit-box-shadow: 0px 0px 16px 8px rgba(0, 0, 0, 0.68);
+       box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+   }
+   
+   .input[type=text] {
+       -webkit-box-shadow: 0px 0px 16px 8px rgba(0, 0, 0, 0.68);
+       box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+   }
+   
+   h1 {
+       color: black;
+   }
+   
+   .button {
+       background-color: #4CAF50;
+       border: none;
+       color: white;
+       padding: 15px 32px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       font-size: 16px;
+   }
